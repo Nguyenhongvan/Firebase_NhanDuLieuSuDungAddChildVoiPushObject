@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "467616715504",
+    "firebase_url": "https://nhandulieuvoipushobject-8f67f.firebaseio.com",
+    "project_id": "nhandulieuvoipushobject-8f67f",
+    "storage_bucket": "nhandulieuvoipushobject-8f67f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467616715504:android:736114a5a736b4ef",
+        "android_client_info": {
+          "package_name": "com.vansuzy.firebase_nhandulieusudungaddchildvoipushobject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467616715504-g147hlmdg7n971ver72sk3q4hodgc2lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN3vLeh_Qxu6lDkow4hkYHqPCdXSO06Jk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
